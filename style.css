@@ -1,0 +1,271 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    font-family: 'Merriweather', serif;
+    
+}
+.master{
+    background-color: rgb(224,235,232);
+}
+
+.container_main{
+
+    background-color: rgb(224,235,232);
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    color: rgb(74,177,154);
+}
+h2,h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top{
+    margin-top: 30px;
+    text-align: center;
+}
+.title_class{
+    margin-top: 50px;
+    text-align: center;
+    font-style: italic;
+    font-size: 35px;
+
+}
+.title_class p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* #paragraph1{
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+} */
+.second_cloud{
+    margin-top: 30px;
+    padding-left: 70px;
+}
+.mountain{
+    text-align: center;
+    margin-top: 36px;
+    
+}
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(224,235,232);
+}
+.logo{
+    height: 84%;
+    width: auto;
+    padding-left: 24%;
+    margin-top: 25px;
+}
+nav ul{
+    
+    float:right ;
+    margin-top: 40px;
+    padding-right: 24%;
+    background-color: rgb(224,235,232);
+    /* margin-right: 120px; */
+}
+nav ul li{
+    color: blues;
+    display: inline-block;
+    padding-right: 25px;
+    font-size: 17px;
+    
+
+}
+nav ul li a{
+    color: rgb(74,177,154);
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.title_class p{
+    color: rgb(74,177,154);
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+.container2{
+    margin-top: 40px;
+    text-align: center;
+}
+/* #man{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: rgb(74,177,154);
+
+}
+.detail2{
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+} */
+
+.tabl table{
+    width: 28%;
+   margin-left: auto;
+   margin-right: auto;
+   }
+.tabl table td{
+    padding-top: 5%;
+    
+    
+}
+.tabl table td h2{
+    color: rgb(74,177,154);
+    padding-top: 7%;
+
+}
+.tabl table td p{
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+.horizontalbar{
+    text-align: center;
+    margin-left: 47%;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    border-color: grey;
+    width: 100px;
+    margin-top: 5%;
+    
+}
+.newh3 h2{
+    color:rgb(17, 128, 103) ;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 45px;
+    font-weight: 1px;
+
+}
+.pictur_text1{
+    margin-top: 5%;
+}
+.piclap{
+    float:left
+}
+.pictur_text1{
+    position: absolute;
+    width: 50%;
+    left: 25%;
+}
+.pictur_text1 h3{
+    color:rgb(74,177,154) ;
+    padding-left: 35%;
+    padding-top: 5%;
+}
+.pictur_text1 p{
+    padding-left: 35%;
+    padding-top: 5%;
+    font-family: 'Montserrat', sans-serif;
+}
+.pictur_text2{
+    margin-top: 25%;
+}
+.piclan{
+    float:right;
+    height: 150px;
+    width: auto;
+}
+.pictur_text2{
+    position: absolute;
+    width: 50%;
+    left: 25%;
+}
+.pictur_text2 h3{
+    color:rgb(74,177,154) ;
+    padding-right: 35%;
+    padding-top: 5%;
+}
+.pictur_text2 p{
+    padding-right: 35%;
+    padding-top: 5%;
+    font-family: 'Montserrat', sans-serif;
+}
+.container4{
+    margin-top: 41%;
+    
+}
+.horizontalbar2{
+    text-align: center;
+    margin-left: 47%;
+}
+.newh4 h2{
+    color:rgb(17, 128, 103) ;
+    text-align: center;
+    margin-top: 4%;
+    font-size: 45px;
+    font-weight: 1px;
+
+}
+.help h3{
+    text-align: center;
+    margin-top: 3%;
+    color:rgb(74,177,154) ; ;
+}
+.help p{
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 3%;
+    font-family: 'Montserrat', sans-serif;
+}
+.button{
+    text-align: center;
+    margin-top: 3%;
+    
+}
+.GFG{
+    width:170px;
+    height: 50px;
+    padding-top: 13px;
+    padding-bottom: 10px;
+    background-color:rgb(74,177,154);
+    border-radius: 5px;
+    border:0;
+    cursor: pointer;
+}
+
+.GFG:hover{
+    background-color: aqua;
+}
+.footer{
+    margin-top: 30px;
+    height: 180px;
+    background-color: rgb(197,222,215);
+    text-align: center;
+}
+.foterlist ul{
+    padding-top: 50px;
+}
+.foterlist ul li{
+    margin-top: 40px;
+    color: rgb(74,177,154);
+    text-decoration: none;
+   
+    display: inline-block;
+    padding-right: 25px;
+    font-size: 17px;
+    
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.fpara{
+    font-family:'Montserrat', sans-serif ;
+    color: rgb(74,177,154);
+    font-size: 15px;
+    margin-top: 45px;
+}
+.foterlist ul li :hover{
+    color: rgb(17, 128, 103);
+    font-size: 18px;
+}
